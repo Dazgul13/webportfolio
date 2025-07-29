@@ -99,9 +99,9 @@ section {
   transition: transform 0.3s ease, color 0.3s ease;
   color: #A8EB12;
 }
-#sublimetext{
-  width:48px; 
-  height:48px;
+#sublime{
+  width:45px; 
+  height:45px;
   color: #A8EB12 !important;
 }
 .skill-item:hover {
